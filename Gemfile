@@ -26,6 +26,7 @@ group :development, :test do
   gem 'minitest'
   gem 'rspec-rails'
   gem 'pry'
+  gem 'dotenv-rails'
 end
 
 #authentication
