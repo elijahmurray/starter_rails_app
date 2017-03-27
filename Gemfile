@@ -18,6 +18,7 @@ end
 group :development do
   gem 'guard-livereload'
   gem 'guard-rspec', require: false
+  gem 'test-unit'
 end
 
 group :development, :test do
